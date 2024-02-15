@@ -1,0 +1,10 @@
+.font{
+    font-family: "Poppins", sans-serif;
+}
+.background{
+    background-image: url(images/background.png);
+    background-repeat: no-repeat;
+}
+.font-anton{
+    font-family: "Anton", sans-serif;
+}
